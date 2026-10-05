@@ -1,0 +1,6 @@
+{
+  "name": "QuickStore — Your Business Online",
+  "description": "Complete digital storefront and WhatsApp ordering system for restaurants, cafes, and local businesses with QR codes and instant WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
